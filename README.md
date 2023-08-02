@@ -6,5 +6,6 @@ Etat des ressources humaines Ministère de la santé en 2018
 Mouvement des affectations des ingénieurs de sante et des ingénieurs des techniques
 
 
-[Base_agent_de_sante_2018 - Agent.pdf](https://github.com/appistore/Dashboard-spotfire/files/12235188/Base_agent_de_sante_2018.-.Agent.pdf)
-[Mouvement_affectation_des_infirmiers_specialistes_et_ingeniers_de_techniques_en_2020.pdf](https://github.com/appistore/Dashboard-spotfire/files/12235187/Mouvement_affectation_des_infirmiers_specialistes_et_ingeniers_de_techniques_en_2020.pdf)
+
+![Screenshot 2023-08-01 215016](https://github.com/appistore/Dashboard-spotfire/assets/108524748/df7caeed-0dbf-490d-b5f3-99c70e3c77b6)
+![Screenshot 2023-08-01 215001](https://github.com/appistore/Dashboard-spotfire/assets/108524748/5122bc25-cc7a-463f-a387-eef555404ae7)
